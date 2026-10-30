@@ -2,7 +2,7 @@
   "dependencies": [
     {
       "name": "python3",
-      "version>=": "3.12.9#4"
+      "version>=": "3.12.16"
     },
     {
       "name": "greenlet",
@@ -10,7 +10,7 @@
     },
     {
       "name": "carbon-core",
-      "version>=": "3.3.0"
+      "version>=": "3.3.0#1"
     },
     {
       "name": "gtest",
